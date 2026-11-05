@@ -1,6 +1,7 @@
 flask
 flask-cors
 pandas
+xlrd
 scikit-learn
 xgboost
 matplotlib
